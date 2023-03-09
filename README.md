@@ -31,7 +31,7 @@ Front-End
 
 ## ✍ Author
 
-- [Mahima Churi](https://github.com/Mahitej28)
+- [Himanshu Agarwal](https://github.com/himanshu-03)
 
 <br>
 
